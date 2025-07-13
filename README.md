@@ -38,7 +38,8 @@
 
  ##
 
-![snake gif](https://github.com/BrunaOGomes/BrunaOGomes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/BrunaOGomes/BrunaOGomes/output/github-contribution-grid-snake.svg)
+
 
 
  
