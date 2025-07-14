@@ -41,6 +41,5 @@
 
 ##
 
-### 🐍 Snake animation
-
 ![snake gif](https://raw.githubusercontent.com/BrunaOGomes/BrunaOGomes/output/github-contribution-grid-snake.svg)
+
