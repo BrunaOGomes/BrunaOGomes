@@ -41,5 +41,5 @@
 
 ##
 
-![snake gif](https://raw.githubusercontent.com/BrunaOGomes/BrunaOGomes/output/github-contribution-grid-snake.svg)
+![Bruna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunaOGomes&theme=dracula)
 
