@@ -1,0 +1,28 @@
+name: Generate GitHub Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate pacman
+        uses: Platane/pacman@v1
+        with:
+          github_user_name: BrunaOGomes
+          # nome do arquivo SVG de saída
+          output_path: dist/github-contribution-grid-pacman.svg
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
