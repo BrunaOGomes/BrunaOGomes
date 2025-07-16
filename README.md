@@ -8,7 +8,7 @@
 - 🗺️ Sempre procurando conhecimento e novas tecnologias
 - 🔭 Estou sempre procurando diferentes conhecimentos sobre a área de Cyber Security-   
 
-##
+## Status e o que tenho estudado =)
 
 <table>
   <tr>
@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-##
+## 📚 Meus Conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,15 +33,15 @@
   <img align="center" alt="Bruna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
 
-##
+## 🛜 Minhas Redes
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://instagram.com/bruugomes25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:brunaog25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bruna-gomes-8052801b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-##
+## 📈 Meus Commits 
 
 ![Bruna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunaOGomes&theme=dracula)
  
